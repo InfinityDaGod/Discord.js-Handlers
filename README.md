@@ -11,4 +11,4 @@ npm i wokcommands
 - After that put your bot's token in `.env`.
 - Type `node .` or `node index.js` to start it.
 
-( Adding files soon )
+( Remove the replit files if your not using replit )
